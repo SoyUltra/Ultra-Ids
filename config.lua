@@ -28,9 +28,9 @@ Config.B = 255
 
 -- -- TRANSLATIONS
 Config.Secconds =       'Seconds..-'                                                                   
-Config.Notif =          'Nearby players have been notified that they are verifying their ids'          
-Config.Spam1 =          'YOU SHOULD NOT SPAM You have'                                                 
-Config.Spam2 =          ' cooldown seconds!'                                                           
+Config.Notif =          'Nearby players have been notified that you are verifying their IDs'          
+Config.Spam1 =          'SPAM PREVENTION! You are on Cooldown for '                                                 
+Config.Spam2 =          ' seconds!'                                                           
 Config.NotiPlayer1 =    ' Player ID: '                                                                 
-Config.NotiPlayer2 =    ' Is verifying your id!'                                                       
+Config.NotiPlayer2 =    ' is verifying your id!'                                                       
 
